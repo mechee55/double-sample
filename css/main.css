@@ -215,7 +215,8 @@ section.hero .inner-hero {
 }
 .header .logo h2 {
 	color: #ffffff;
-	font-size: 1.0625em;
+	/* font-size: 1.0625em; */
+	font-size: 1.5em;
 	text-transform: uppercase;
 }
 
@@ -405,6 +406,10 @@ section.services .container:last-child .row:last-child {
 }
 
 /* Menu section*/
+
+.service-bottom-margin {
+	margin-bottom: 1.5em;
+}
 
 .block-tabs li {
 	cursor: pointer;
@@ -632,7 +637,7 @@ section.services .container:last-child .row:last-child {
 	}
 	h6 {
 		/* font-size: .6125em */
-		font-size: .85em
+		font-size: 0.9em
 	}
 	.block-beard img {
 		max-width: 80%;
@@ -699,7 +704,7 @@ section.services .container:last-child .row:last-child {
 		font-size: 1.4125em;
 	}
 	h6 {
-		font-size: .6125em
+		font-size: .0.9em
 	}
 	.block-beard img {
 		max-width: 80%;
