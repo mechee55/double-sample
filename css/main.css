@@ -638,11 +638,12 @@ section.services .container:last-child .row:last-child {
 		display: none;
 	}
 	h1.large {
-		font-size: 1.8125em;
+		/* font-size: 1.8125em; */
+		font-size: 2.2em;
 	}
 	h6 {
 		/* font-size: .6125em */
-		font-size: 0.9em
+		font-size: 1em;
 	}
 	.block-beard img {
 		max-width: 80%;
@@ -706,7 +707,7 @@ section.services .container:last-child .row:last-child {
 		display: none;
 	}
 	h1.large {
-		font-size: 2.2em;
+		font-size: 2em;
 	}
 	h6 {
 		font-size: 0.8em;
