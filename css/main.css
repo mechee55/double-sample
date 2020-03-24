@@ -631,7 +631,8 @@ section.services .container:last-child .row:last-child {
 		font-size: 1.8125em;
 	}
 	h6 {
-		font-size: .6125em
+		/* font-size: .6125em */
+		font-size: .85em
 	}
 	.block-beard img {
 		max-width: 80%;
