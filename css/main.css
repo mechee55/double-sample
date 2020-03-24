@@ -464,7 +464,7 @@ section.services .container:last-child .row:last-child {
 	position: absolute;
 	top: -2px;
 	right: 0;
-	font-size: .9375em;
+	font-size: 1.1em;
 	z-index: 2;
 	background: #fff;
 	padding-left: .125em;
@@ -513,6 +513,11 @@ section.services .container:last-child .row:last-child {
 	font-size: .6875em;
 }
 /* End footer section*/
+
+
+
+
+
 
 /*Media queries*/
 
@@ -704,7 +709,7 @@ section.services .container:last-child .row:last-child {
 		font-size: 1.4125em;
 	}
 	h6 {
-		font-size: .0.9em
+		font-size: 0.9em;
 	}
 	.block-beard img {
 		max-width: 80%;
