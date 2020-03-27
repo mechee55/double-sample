@@ -224,6 +224,16 @@ section.hero .inner-hero {
 	text-transform: lowercase;
 }
 
+@font-face {
+font-family: 'Athelas Regular';
+font-style: normal;
+font-weight: normal;
+src: local('Athelas Regular'), url('Athelas-Regular.woff') format('woff');
+}
+
+.athelas {
+	font-family: 'Athelas Regular';
+}
 
 .header.switched-header .logo h2 {
 	color: #151514;
