@@ -433,7 +433,7 @@ section.services .container:last-child .row:last-child {
 	-webkit-border-radius: 6px;
 	-moz-border-radius: 6px;
 	-ms-border-radius: 6px;
-	-o-border-radius: : 6px;
+	-o-border-radius: 6px;
 }
 .block-tabs li .background-img,
 .block-tabs li.overlay:before {
@@ -441,18 +441,26 @@ section.services .container:last-child .row:last-child {
 	-webkit-border-radius: 3px;
 	-moz-border-radius: 3px;
 	-ms-border-radius: 3px;
-	-o-border-radius: : 3px;
+	-o-border-radius: 3px;
 }
 .block-tabs li.overlay:before {
-	background: rgba(85, 45, 37, .6);
+	background: rgba(85, 45, 37, .9); 
 }
 .block-tabs li.active,
 .block-tabs li:hover {
-	box-shadow: 0 0 8px rgba(201, 138, 106, 0.8);
+	
+	box-shadow: 0 0 8px rgba(39, 30, 25, 0.8);
+	-webkit-box-shadow: 0 0 8px rgb(39, 30, 25, 0.8);
+	-moz-box-shadow: 0 0 8px rgba(39, 30, 35, 0.8);
+	-ms-box-shadow: 0 0 8px rgba(39, 30, 35, 0.8);
+	-o-box-shadow: 0 0 8px rgba(39, 30, 35, 0.8); 
+
+
+	/* box-shadow: 0 0 8px rgba(201, 138, 106, 0.8);
 	-webkit-box-shadow: 0 0 8px rgba(201, 138, 106, 0.8);
 	-moz-box-shadow: 0 0 8px rgba(201, 138, 106, 0.8);
 	-ms-box-shadow: 0 0 8px rgba(201, 138, 106, 0.8);
-	-o-box-shadow: 0 0 8px rgba(201, 138, 106, 0.8);
+	-o-box-shadow: 0 0 8px rgba(201, 138, 106, 0.8); */
 }
 .block-tab li {
 	display: none;
