@@ -224,6 +224,12 @@ section.hero .inner-hero {
 	text-transform: lowercase;
 }
 
+.image-center {
+  margin: auto;
+}
+
+
+
 @font-face {
 font-family: 'Athelas Regular';
 font-style: normal;
